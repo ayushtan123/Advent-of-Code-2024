@@ -1,6 +1,8 @@
 # Advent of Code 2024
 This repository contains my solutions for **Advent of Code 2024**.  
 
+Update: completed till day 9. Dec is vacation time 🙃
+
 Author : **Ayush Tandon**  
 
 Start Date  : **06-12-2024**  
